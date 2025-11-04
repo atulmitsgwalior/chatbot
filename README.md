@@ -1,1 +1,1 @@
-# chatbot for MITS-DU
+# Chitchat for MITS-DU
